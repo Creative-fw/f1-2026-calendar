@@ -1,0 +1,1140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LGS//F1 2026 Auto-Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F1 2026
+X-WR-CALDESC:FIA Formula 1 World Championship 2026 - all sessions\, auto-synced daily from the open sportstimes/f1 dataset
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:r1-australian-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260306T013000Z
+DTEND:20260306T023000Z
+SUMMARY:F1 Australian GP - Practice 1
+LOCATION:Melbourne
+DESCRIPTION:Round 1. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r1-australian-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260306T050000Z
+DTEND:20260306T060000Z
+SUMMARY:F1 Australian GP - Practice 2
+LOCATION:Melbourne
+DESCRIPTION:Round 1. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r1-australian-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260307T013000Z
+DTEND:20260307T023000Z
+SUMMARY:F1 Australian GP - Practice 3
+LOCATION:Melbourne
+DESCRIPTION:Round 1. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r1-australian-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260307T050000Z
+DTEND:20260307T060000Z
+SUMMARY:F1 Australian GP - Qualifying
+LOCATION:Melbourne
+DESCRIPTION:Round 1. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r1-australian-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260308T040000Z
+DTEND:20260308T060000Z
+SUMMARY:🏁 F1 Australian GP - Race
+LOCATION:Melbourne
+DESCRIPTION:Round 1. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Australian GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r2-chinese-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260313T033000Z
+DTEND:20260313T043000Z
+SUMMARY:F1 Chinese GP - Practice 1
+LOCATION:Shanghai
+DESCRIPTION:Round 2. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r2-chinese-gp-sprint-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260313T073000Z
+DTEND:20260313T081500Z
+SUMMARY:F1 Chinese GP - Sprint Qualifying
+LOCATION:Shanghai
+DESCRIPTION:Round 2. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r2-chinese-gp-sprint@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260314T030000Z
+DTEND:20260314T040000Z
+SUMMARY:🏁 F1 Chinese GP - Sprint
+LOCATION:Shanghai
+DESCRIPTION:Round 2. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Chinese GP Sprint starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r2-chinese-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260314T070000Z
+DTEND:20260314T080000Z
+SUMMARY:F1 Chinese GP - Qualifying
+LOCATION:Shanghai
+DESCRIPTION:Round 2. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r2-chinese-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260315T070000Z
+DTEND:20260315T090000Z
+SUMMARY:🏁 F1 Chinese GP - Race
+LOCATION:Shanghai
+DESCRIPTION:Round 2. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Chinese GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r3-japanese-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260327T023000Z
+DTEND:20260327T033000Z
+SUMMARY:F1 Japanese GP - Practice 1
+LOCATION:Suzuka
+DESCRIPTION:Round 3. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r3-japanese-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260327T060000Z
+DTEND:20260327T070000Z
+SUMMARY:F1 Japanese GP - Practice 2
+LOCATION:Suzuka
+DESCRIPTION:Round 3. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r3-japanese-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260328T023000Z
+DTEND:20260328T033000Z
+SUMMARY:F1 Japanese GP - Practice 3
+LOCATION:Suzuka
+DESCRIPTION:Round 3. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r3-japanese-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260328T060000Z
+DTEND:20260328T070000Z
+SUMMARY:F1 Japanese GP - Qualifying
+LOCATION:Suzuka
+DESCRIPTION:Round 3. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r3-japanese-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260329T050000Z
+DTEND:20260329T070000Z
+SUMMARY:🏁 F1 Japanese GP - Race
+LOCATION:Suzuka
+DESCRIPTION:Round 3. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Japanese GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r4-miami-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260501T160000Z
+DTEND:20260501T170000Z
+SUMMARY:F1 Miami GP - Practice 1
+LOCATION:Miami
+DESCRIPTION:Round 4. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r4-miami-gp-sprint-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260501T203000Z
+DTEND:20260501T211500Z
+SUMMARY:F1 Miami GP - Sprint Qualifying
+LOCATION:Miami
+DESCRIPTION:Round 4. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r4-miami-gp-sprint@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+SUMMARY:🏁 F1 Miami GP - Sprint
+LOCATION:Miami
+DESCRIPTION:Round 4. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miami GP Sprint starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r4-miami-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260502T200000Z
+DTEND:20260502T210000Z
+SUMMARY:F1 Miami GP - Qualifying
+LOCATION:Miami
+DESCRIPTION:Round 4. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r4-miami-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260503T170000Z
+DTEND:20260503T190000Z
+SUMMARY:🏁 F1 Miami GP - Race
+LOCATION:Miami
+DESCRIPTION:Round 4. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miami GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r5-canadian-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260522T163000Z
+DTEND:20260522T173000Z
+SUMMARY:F1 Canadian GP - Practice 1
+LOCATION:Montreal
+DESCRIPTION:Round 5. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r5-canadian-gp-sprint-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260522T203000Z
+DTEND:20260522T211500Z
+SUMMARY:F1 Canadian GP - Sprint Qualifying
+LOCATION:Montreal
+DESCRIPTION:Round 5. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r5-canadian-gp-sprint@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260523T160000Z
+DTEND:20260523T170000Z
+SUMMARY:🏁 F1 Canadian GP - Sprint
+LOCATION:Montreal
+DESCRIPTION:Round 5. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canadian GP Sprint starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r5-canadian-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260523T200000Z
+DTEND:20260523T210000Z
+SUMMARY:F1 Canadian GP - Qualifying
+LOCATION:Montreal
+DESCRIPTION:Round 5. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r5-canadian-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260524T200000Z
+DTEND:20260524T220000Z
+SUMMARY:🏁 F1 Canadian GP - Race
+LOCATION:Montreal
+DESCRIPTION:Round 5. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canadian GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r6-monaco-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260605T113000Z
+DTEND:20260605T123000Z
+SUMMARY:F1 Monaco GP - Practice 1
+LOCATION:Monte Carlo
+DESCRIPTION:Round 6. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r6-monaco-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260605T150000Z
+DTEND:20260605T160000Z
+SUMMARY:F1 Monaco GP - Practice 2
+LOCATION:Monte Carlo
+DESCRIPTION:Round 6. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r6-monaco-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260606T103000Z
+DTEND:20260606T113000Z
+SUMMARY:F1 Monaco GP - Practice 3
+LOCATION:Monte Carlo
+DESCRIPTION:Round 6. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r6-monaco-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260606T140000Z
+DTEND:20260606T150000Z
+SUMMARY:F1 Monaco GP - Qualifying
+LOCATION:Monte Carlo
+DESCRIPTION:Round 6. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r6-monaco-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260607T130000Z
+DTEND:20260607T150000Z
+SUMMARY:🏁 F1 Monaco GP - Race
+LOCATION:Monte Carlo
+DESCRIPTION:Round 6. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Monaco GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r7-barcelona-catalunya-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260612T113000Z
+DTEND:20260612T123000Z
+SUMMARY:F1 Barcelona-Catalunya GP - Practice 1
+LOCATION:Barcelona
+DESCRIPTION:Round 7. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r7-barcelona-catalunya-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
+SUMMARY:F1 Barcelona-Catalunya GP - Practice 2
+LOCATION:Barcelona
+DESCRIPTION:Round 7. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r7-barcelona-catalunya-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260613T103000Z
+DTEND:20260613T113000Z
+SUMMARY:F1 Barcelona-Catalunya GP - Practice 3
+LOCATION:Barcelona
+DESCRIPTION:Round 7. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r7-barcelona-catalunya-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260613T140000Z
+DTEND:20260613T150000Z
+SUMMARY:F1 Barcelona-Catalunya GP - Qualifying
+LOCATION:Barcelona
+DESCRIPTION:Round 7. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r7-barcelona-catalunya-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:🏁 F1 Barcelona-Catalunya GP - Race
+LOCATION:Barcelona
+DESCRIPTION:Round 7. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Barcelona-Catalunya GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r8-austrian-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260626T113000Z
+DTEND:20260626T123000Z
+SUMMARY:F1 Austrian GP - Practice 1
+LOCATION:Spielberg
+DESCRIPTION:Round 8. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r8-austrian-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260626T150000Z
+DTEND:20260626T160000Z
+SUMMARY:F1 Austrian GP - Practice 2
+LOCATION:Spielberg
+DESCRIPTION:Round 8. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r8-austrian-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260627T103000Z
+DTEND:20260627T113000Z
+SUMMARY:F1 Austrian GP - Practice 3
+LOCATION:Spielberg
+DESCRIPTION:Round 8. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r8-austrian-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260627T140000Z
+DTEND:20260627T150000Z
+SUMMARY:F1 Austrian GP - Qualifying
+LOCATION:Spielberg
+DESCRIPTION:Round 8. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r8-austrian-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260628T130000Z
+DTEND:20260628T150000Z
+SUMMARY:🏁 F1 Austrian GP - Race
+LOCATION:Spielberg
+DESCRIPTION:Round 8. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Austrian GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r9-british-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260703T113000Z
+DTEND:20260703T123000Z
+SUMMARY:F1 British GP - Practice 1
+LOCATION:Silverstone
+DESCRIPTION:Round 9. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r9-british-gp-sprint-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260703T153000Z
+DTEND:20260703T161500Z
+SUMMARY:F1 British GP - Sprint Qualifying
+LOCATION:Silverstone
+DESCRIPTION:Round 9. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r9-british-gp-sprint@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260704T110000Z
+DTEND:20260704T120000Z
+SUMMARY:🏁 F1 British GP - Sprint
+LOCATION:Silverstone
+DESCRIPTION:Round 9. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:British GP Sprint starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r9-british-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260704T150000Z
+DTEND:20260704T160000Z
+SUMMARY:F1 British GP - Qualifying
+LOCATION:Silverstone
+DESCRIPTION:Round 9. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r9-british-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260705T140000Z
+DTEND:20260705T160000Z
+SUMMARY:🏁 F1 British GP - Race
+LOCATION:Silverstone
+DESCRIPTION:Round 9. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:British GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r10-belgian-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260717T113000Z
+DTEND:20260717T123000Z
+SUMMARY:F1 Belgian GP - Practice 1
+LOCATION:Spa-Francorchamps
+DESCRIPTION:Round 10. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r10-belgian-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260717T150000Z
+DTEND:20260717T160000Z
+SUMMARY:F1 Belgian GP - Practice 2
+LOCATION:Spa-Francorchamps
+DESCRIPTION:Round 10. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r10-belgian-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260718T103000Z
+DTEND:20260718T113000Z
+SUMMARY:F1 Belgian GP - Practice 3
+LOCATION:Spa-Francorchamps
+DESCRIPTION:Round 10. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r10-belgian-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260718T140000Z
+DTEND:20260718T150000Z
+SUMMARY:F1 Belgian GP - Qualifying
+LOCATION:Spa-Francorchamps
+DESCRIPTION:Round 10. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r10-belgian-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260719T130000Z
+DTEND:20260719T150000Z
+SUMMARY:🏁 F1 Belgian GP - Race
+LOCATION:Spa-Francorchamps
+DESCRIPTION:Round 10. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Belgian GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r11-hungarian-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260724T113000Z
+DTEND:20260724T123000Z
+SUMMARY:F1 Hungarian GP - Practice 1
+LOCATION:Budapest
+DESCRIPTION:Round 11. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r11-hungarian-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260724T150000Z
+DTEND:20260724T160000Z
+SUMMARY:F1 Hungarian GP - Practice 2
+LOCATION:Budapest
+DESCRIPTION:Round 11. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r11-hungarian-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260725T103000Z
+DTEND:20260725T113000Z
+SUMMARY:F1 Hungarian GP - Practice 3
+LOCATION:Budapest
+DESCRIPTION:Round 11. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r11-hungarian-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260725T140000Z
+DTEND:20260725T150000Z
+SUMMARY:F1 Hungarian GP - Qualifying
+LOCATION:Budapest
+DESCRIPTION:Round 11. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r11-hungarian-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260726T130000Z
+DTEND:20260726T150000Z
+SUMMARY:🏁 F1 Hungarian GP - Race
+LOCATION:Budapest
+DESCRIPTION:Round 11. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hungarian GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r12-dutch-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260821T103000Z
+DTEND:20260821T113000Z
+SUMMARY:F1 Dutch GP - Practice 1
+LOCATION:Zandvoort
+DESCRIPTION:Round 12. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r12-dutch-gp-sprint-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260821T143000Z
+DTEND:20260821T151500Z
+SUMMARY:F1 Dutch GP - Sprint Qualifying
+LOCATION:Zandvoort
+DESCRIPTION:Round 12. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r12-dutch-gp-sprint@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260822T100000Z
+DTEND:20260822T110000Z
+SUMMARY:🏁 F1 Dutch GP - Sprint
+LOCATION:Zandvoort
+DESCRIPTION:Round 12. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dutch GP Sprint starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r12-dutch-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+SUMMARY:F1 Dutch GP - Qualifying
+LOCATION:Zandvoort
+DESCRIPTION:Round 12. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r12-dutch-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:🏁 F1 Dutch GP - Race
+LOCATION:Zandvoort
+DESCRIPTION:Round 12. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dutch GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r13-italian-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260904T103000Z
+DTEND:20260904T113000Z
+SUMMARY:F1 Italian GP - Practice 1
+LOCATION:Monza
+DESCRIPTION:Round 13. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r13-italian-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260904T140000Z
+DTEND:20260904T150000Z
+SUMMARY:F1 Italian GP - Practice 2
+LOCATION:Monza
+DESCRIPTION:Round 13. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r13-italian-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260905T103000Z
+DTEND:20260905T113000Z
+SUMMARY:F1 Italian GP - Practice 3
+LOCATION:Monza
+DESCRIPTION:Round 13. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r13-italian-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260905T140000Z
+DTEND:20260905T150000Z
+SUMMARY:F1 Italian GP - Qualifying
+LOCATION:Monza
+DESCRIPTION:Round 13. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r13-italian-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:🏁 F1 Italian GP - Race
+LOCATION:Monza
+DESCRIPTION:Round 13. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Italian GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r14-spanish-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260911T113000Z
+DTEND:20260911T123000Z
+SUMMARY:F1 Spanish GP - Practice 1
+LOCATION:Madrid
+DESCRIPTION:Round 14. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r14-spanish-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260911T150000Z
+DTEND:20260911T160000Z
+SUMMARY:F1 Spanish GP - Practice 2
+LOCATION:Madrid
+DESCRIPTION:Round 14. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r14-spanish-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260912T103000Z
+DTEND:20260912T113000Z
+SUMMARY:F1 Spanish GP - Practice 3
+LOCATION:Madrid
+DESCRIPTION:Round 14. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r14-spanish-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+SUMMARY:F1 Spanish GP - Qualifying
+LOCATION:Madrid
+DESCRIPTION:Round 14. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r14-spanish-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:🏁 F1 Spanish GP - Race
+LOCATION:Madrid
+DESCRIPTION:Round 14. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spanish GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r15-azerbaijan-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260924T083000Z
+DTEND:20260924T093000Z
+SUMMARY:F1 Azerbaijan GP - Practice 1
+LOCATION:Baku
+DESCRIPTION:Round 15. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r15-azerbaijan-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260924T120000Z
+DTEND:20260924T130000Z
+SUMMARY:F1 Azerbaijan GP - Practice 2
+LOCATION:Baku
+DESCRIPTION:Round 15. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r15-azerbaijan-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260925T083000Z
+DTEND:20260925T093000Z
+SUMMARY:F1 Azerbaijan GP - Practice 3
+LOCATION:Baku
+DESCRIPTION:Round 15. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r15-azerbaijan-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+SUMMARY:F1 Azerbaijan GP - Qualifying
+LOCATION:Baku
+DESCRIPTION:Round 15. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r15-azerbaijan-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:🏁 F1 Azerbaijan GP - Race
+LOCATION:Baku
+DESCRIPTION:Round 15. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Azerbaijan GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r16-singapore-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261009T083000Z
+DTEND:20261009T093000Z
+SUMMARY:F1 Singapore GP - Practice 1
+LOCATION:Singapore
+DESCRIPTION:Round 16. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r16-singapore-gp-sprint-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261009T123000Z
+DTEND:20261009T131500Z
+SUMMARY:F1 Singapore GP - Sprint Qualifying
+LOCATION:Singapore
+DESCRIPTION:Round 16. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r16-singapore-gp-sprint@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261010T090000Z
+DTEND:20261010T100000Z
+SUMMARY:🏁 F1 Singapore GP - Sprint
+LOCATION:Singapore
+DESCRIPTION:Round 16. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Singapore GP Sprint starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r16-singapore-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:F1 Singapore GP - Qualifying
+LOCATION:Singapore
+DESCRIPTION:Round 16. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r16-singapore-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:🏁 F1 Singapore GP - Race
+LOCATION:Singapore
+DESCRIPTION:Round 16. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Singapore GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r17-united-states-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+SUMMARY:F1 United States GP - Practice 1
+LOCATION:Austin
+DESCRIPTION:Round 17. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r17-united-states-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261023T210000Z
+DTEND:20261023T220000Z
+SUMMARY:F1 United States GP - Practice 2
+LOCATION:Austin
+DESCRIPTION:Round 17. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r17-united-states-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+SUMMARY:F1 United States GP - Practice 3
+LOCATION:Austin
+DESCRIPTION:Round 17. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r17-united-states-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+SUMMARY:F1 United States GP - Qualifying
+LOCATION:Austin
+DESCRIPTION:Round 17. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r17-united-states-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:🏁 F1 United States GP - Race
+LOCATION:Austin
+DESCRIPTION:Round 17. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:United States GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r18-mexican-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261030T183000Z
+DTEND:20261030T193000Z
+SUMMARY:F1 Mexican GP - Practice 1
+LOCATION:Mexico City
+DESCRIPTION:Round 18. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r18-mexican-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261030T220000Z
+DTEND:20261030T230000Z
+SUMMARY:F1 Mexican GP - Practice 2
+LOCATION:Mexico City
+DESCRIPTION:Round 18. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r18-mexican-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261031T173000Z
+DTEND:20261031T183000Z
+SUMMARY:F1 Mexican GP - Practice 3
+LOCATION:Mexico City
+DESCRIPTION:Round 18. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r18-mexican-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:F1 Mexican GP - Qualifying
+LOCATION:Mexico City
+DESCRIPTION:Round 18. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r18-mexican-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:🏁 F1 Mexican GP - Race
+LOCATION:Mexico City
+DESCRIPTION:Round 18. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mexican GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r19-brazilian-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261106T153000Z
+DTEND:20261106T163000Z
+SUMMARY:F1 Brazilian GP - Practice 1
+LOCATION:Sao Paulo
+DESCRIPTION:Round 19. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r19-brazilian-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+SUMMARY:F1 Brazilian GP - Practice 2
+LOCATION:Sao Paulo
+DESCRIPTION:Round 19. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r19-brazilian-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261107T143000Z
+DTEND:20261107T153000Z
+SUMMARY:F1 Brazilian GP - Practice 3
+LOCATION:Sao Paulo
+DESCRIPTION:Round 19. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r19-brazilian-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+SUMMARY:F1 Brazilian GP - Qualifying
+LOCATION:Sao Paulo
+DESCRIPTION:Round 19. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r19-brazilian-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:🏁 F1 Brazilian GP - Race
+LOCATION:Sao Paulo
+DESCRIPTION:Round 19. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Brazilian GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r20-las-vegas-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261120T003000Z
+DTEND:20261120T013000Z
+SUMMARY:F1 Las Vegas GP - Practice 1
+LOCATION:Las Vegas
+DESCRIPTION:Round 20. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r20-las-vegas-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+SUMMARY:F1 Las Vegas GP - Practice 2
+LOCATION:Las Vegas
+DESCRIPTION:Round 20. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r20-las-vegas-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+SUMMARY:F1 Las Vegas GP - Practice 3
+LOCATION:Las Vegas
+DESCRIPTION:Round 20. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r20-las-vegas-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+SUMMARY:F1 Las Vegas GP - Qualifying
+LOCATION:Las Vegas
+DESCRIPTION:Round 20. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r20-las-vegas-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:🏁 F1 Las Vegas GP - Race
+LOCATION:Las Vegas
+DESCRIPTION:Round 20. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Las Vegas GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r21-qatar-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261127T133000Z
+DTEND:20261127T143000Z
+SUMMARY:F1 Qatar GP - Practice 1
+LOCATION:Doha
+DESCRIPTION:Round 21. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r21-qatar-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261127T170000Z
+DTEND:20261127T180000Z
+SUMMARY:F1 Qatar GP - Practice 2
+LOCATION:Doha
+DESCRIPTION:Round 21. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r21-qatar-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261128T143000Z
+DTEND:20261128T153000Z
+SUMMARY:F1 Qatar GP - Practice 3
+LOCATION:Doha
+DESCRIPTION:Round 21. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r21-qatar-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:F1 Qatar GP - Qualifying
+LOCATION:Doha
+DESCRIPTION:Round 21. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r21-qatar-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:🏁 F1 Qatar GP - Race
+LOCATION:Doha
+DESCRIPTION:Round 21. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Qatar GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r22-abu-dhabi-gp-practice-1@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+SUMMARY:F1 Abu Dhabi GP - Practice 1
+LOCATION:Yas Marina
+DESCRIPTION:Round 22. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r22-abu-dhabi-gp-practice-2@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:F1 Abu Dhabi GP - Practice 2
+LOCATION:Yas Marina
+DESCRIPTION:Round 22. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r22-abu-dhabi-gp-practice-3@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:F1 Abu Dhabi GP - Practice 3
+LOCATION:Yas Marina
+DESCRIPTION:Round 22. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r22-abu-dhabi-gp-qualifying@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:F1 Abu Dhabi GP - Qualifying
+LOCATION:Yas Marina
+DESCRIPTION:Round 22. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:r22-abu-dhabi-gp-race@lgs-f1-2026
+DTSTAMP:20260611T222214Z
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:🏁 F1 Abu Dhabi GP - Race
+LOCATION:Yas Marina
+DESCRIPTION:Round 22. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Abu Dhabi GP Race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
