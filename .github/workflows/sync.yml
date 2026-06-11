@@ -1,0 +1,30 @@
+name: Sync F1 2026 Calendar
+
+on:
+  schedule:
+    - cron: "45 3 * * *"   # 03:45 UTC = 07:45 Dubai, daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Build feed
+        run: python f1_sync.py F1_2026.ics
+
+      - name: Commit if changed
+        run: |
+          git config user.name "f1-sync-bot"
+          git config user.email "actions@github.com"
+          git add F1_2026.ics
+          git diff --cached --quiet || git commit -m "Auto-sync F1 calendar $(date -u +%F)"
+          git push
